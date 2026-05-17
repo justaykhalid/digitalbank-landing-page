@@ -1,4 +1,4 @@
-attribution { font-size: 0.6875rem; text-align: center; }
+.credit { font-size: 0.6875rem; text-align: center; }
      .op { color: hsl(228, 45%, 44%); } 
 
 * {
@@ -296,10 +296,7 @@ html, body {
     .take-txt{
         font-size: 20px;
     }
-    .part-two{
-        width:
-    }
-    ..part-on{
+    .part-on{
     margin-top: 0px;
      }
      .imgae-ob{
